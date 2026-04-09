@@ -1,5 +1,5 @@
 # Article-tag-identifier
-Это домашка по NLP ops в шаде
+Это домашка NLPOps в шаде
 
 nlp-ops.ipynb - блокнот с обучением модели; app.py - streamlit приложение
 
