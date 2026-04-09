@@ -1,8 +1,7 @@
 # Article-tag-identifier
 Это домашка по NLP ops в шаде
 
-nlp-ops.ipynb - блокнот с обучением модели
-app.py - streamlit приложение
+nlp-ops.ipynb - блокнот с обучением модели; app.py - streamlit приложение
 
 Был обучен distilbert-base-cased на датасете https://www.kaggle.com/datasets/neelshah18/arxivdataset
 
